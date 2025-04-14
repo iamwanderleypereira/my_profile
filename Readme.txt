@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Wanderley Pereira
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 Author:Wanderley Pereira
-License: https://bootstrapmade.com/license/
+
+![myprofile](https://github.com/user-attachments/assets/9ef0d813-85f1-4e18-af2a-1fea8c2f8277)
